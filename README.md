@@ -1,0 +1,3 @@
+mast_download.ipynb: notebook for searching observations in MAST and download the data
+coadd.ipynb: Notebook for reduction. I haven't cleaned it and it's a bit messy
+Plan to make a folder to store all reduced data...
